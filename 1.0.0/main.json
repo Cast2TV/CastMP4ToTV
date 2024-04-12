@@ -1,6 +1,5 @@
 {
   "isLive": true,
-  "promote": true,
   "PrivacyPolicyMessage": true,
   "PrivacyPolicyUrl": true,
   "contactName": "Cast2TV Apps",
@@ -14,6 +13,7 @@
   "Interstitial_Id": "INTER_ID",
   "Interstitial_Delay": 60000,
   "Message": "POUTANA",
+  "promote": false,
   "promoteTitle": "PANO APO TO WAVE",
   "promoteUrl": "https://stayindependent.gr/image/cache/catalog/artists/Mikros%20Kleftis-1080x1080.jpg",
   "promoteImageUrl": "https://stayindependent.gr/image/cache/catalog/artists/Mikros%20Kleftis-1080x1080.jpg",
