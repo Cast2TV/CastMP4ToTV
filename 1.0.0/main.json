@@ -8,7 +8,7 @@
   "contactMessage": "Hi, ",
   "isShowingBannerAds": true,
   "Banner_Id": "BANNERAKI_ID",
-  "Banner_Delay": 60000,
+  "Banner_Delay": 20000,
   "isShowingInterstitialAds": true,
   "Interstitial_Id": "INTER_ID",
   "Interstitial_Delay": 60000,
