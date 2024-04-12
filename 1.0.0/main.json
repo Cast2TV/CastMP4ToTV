@@ -1,7 +1,7 @@
 {
   "isLive": true,
-  "PrivacyPolicyMessage": true,
-  "PrivacyPolicyUrl": true,
+  "PrivacyPolicyMessage": "Privacy Policy for Cast MP4 To TV",
+  "PrivacyPolicyUrl": "https://sites.google.com/view/castmp4totv-privacy-policy",
   "contactName": "Cast2TV Apps",
   "contactEmail": "cast2tvapps@gmail.com",
   "contactSubject": "Contact",
