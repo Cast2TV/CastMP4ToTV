@@ -1,6 +1,6 @@
 {
   "isLive": true,
-  "promote": false,
+  "promote": true,
   "PrivacyPolicyMessage": true,
   "PrivacyPolicyUrl": true,
   "contactName": "Cast2TV Apps",
